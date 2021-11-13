@@ -5,7 +5,7 @@
 
 title: Jakob Henke # Website name
 baseurl: 'https://henke.digital/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Jakob Henke' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
