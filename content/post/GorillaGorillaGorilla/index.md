@@ -3,7 +3,7 @@ title: Gorilla Gorilla Gorilla
 subtitle: Teaching Students About Hypothesis Testing Should Include Visualizations
 
 # Summary for listings and search engines
-summary: Students should not only learn how to test hypothesis but how to visualize the data, too.
+summary: Visualizing relationships between variables should be standard part of hypothesis testing.
 
 # Date published
 date: "2021-11-13T00:00:00Z"
@@ -34,8 +34,8 @@ tags:
 ---
 
 I am fascinated by gorillas. Some reasons are obvious. I mean…just look at them! I also absolutely adore the fact that the scientific name of the western lowland gorilla is simply *Gorilla Gorilla Gorilla*. How do you not come up with literally anything else when given the opportunity to name an animal?
-Anyway, I recently came across [this editorial by Yanai & Lercher (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w) in which they argue that hypotheses can be liabilities because they prevent testers from discovering hidden patterns in data, thus potentially hindering scientific progress. They arrive at this inclusion based on an experiment in a statistics class:
-They created a dataset with variables for participants’ Body Mass Index and steps they took in one day. They split this dataset into two, one for men and one for women in the sample. When plotted against each other in the whole dataset, the two variables revealed a picture of a waving gorilla, similar to the one above (in fact, both gorillas are based on the same image). The class was divided into two groups. One was told to explore the dataset, the other two test three hypotheses: 
+
+Anyway, I recently came across [this editorial by Yanai & Lercher (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02133-w) in which they argue that hypotheses can be liabilities because they prevent testers from discovering hidden patterns in data, thus potentially hindering scientific progress. They arrive at this inclusion based on an experiment in a statistics class: They created a dataset with variables for participants’ Body Mass Index and steps they took in one day. They split this dataset into two, one for men and one for women in the sample. When plotted against each other in the whole dataset, the two variables revealed a picture of a waving gorilla, similar to the one above (in fact, both gorillas are based on the same image). The class was divided into two groups. One was told to explore the dataset, the other two test three hypotheses: 
 
 1.	That the number of steps taken differs between men and women,
 2.	that there is a negative correlation between the number of steps and BMI for women, and
@@ -56,7 +56,7 @@ I try to teach my students exactly that. And that’s where the plots in this po
 
 {{< figure src="visualize.png">}}
 
-Of course, this wasn’t a perfect or even conceptual replication of the original gorilla study. But I like to think that my conclusions would be the same if I had replicated the experiment as closely as possible.
+Of course, this wasn’t a perfect or even conceptual replication of the original gorilla study. But I'd like to think that my conclusions would be the same if I had replicated the experiment as closely as possible.
 
 Finally, I want to give a quick shout out to Magnus Karlsson whose [interactive visualization of correlations](https://rpsychologist.com/correlation/) always helps me to show what we can learn from a good graph.
 
