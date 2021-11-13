@@ -1,22 +1,22 @@
 ---
 title: Potential for Innovation in Statistics Education for Journalists
-abstract: Innovationspotential in der Statistikausbildung für Journalist*innen
+
 location: Munich
-date: 2021-09-16T11:00:04.296Z
-date_end: 2021-09-16T13:00:19.404Z
+date: "2021-09-16T13:00:00Z"
+#date_end: "2030-06-01"
 all_day: false
 event: Annual Conference of the Journalism Studies Division of the DGPuK
 event_url: https://www.dgpuk-fgjofo21.de/
-publishDate: 2021-11-13T14:07:00.000Z
 authors:
-  - Henke
-  - Jakob;Holtrup
-  - Stefanie;Möhring
-  - Wiebke
+  - Henke, Jakob
+  - Holtrup, Stefanie
+  - Möhring, Wiebke
 tags:
   - journalsm
   - education
   - stats
+
+abstract: 
 ---
 Wahlberichterstattung, Berichte über offizielle Statistiken, Wissenschaftsjournalismus zu neuen Studien oder der aktuellen pandemischen Lage: Dies sind nur einige, wenige Beispiele in denen Jouranalist*innen mit Zahlen und Statistiken konfrontiert werden. Um ihrer Sorgfaltspflicht gerecht zu werden, ist es unabdingbar, dass Journalist*innen einen sicheren Umgang mit Zahlen und Statistiken beherrschen. Wider die Vorurteile, der Journalismus sei ein rein textgetriebener Beruf, wird in diesem Zug auf internationaler (Nguyen & Lugo-Ocando, 2016) wie nationaler Ebene über die Statistikausbildung von Journalist*innen diskutiert, zuletzt auch auf der Fachgruppentagung 2019 in Eichstätt-Ingolstadt (Lück & Boczek, 2020).
 
@@ -29,12 +29,18 @@ Statistische Kennwerte: Sowohl in der Wissenschaft als auch im Journalismus ist 
 Einsatz von Lehrplattformen und neue Formate: Die Coronapandemie hat hochschulübergreifend dazu geführt, dass Lehrende mit neuen Veranstaltungsformaten experimentieren müssen. Aus Sicht der Autor*innen des vorliegenden Beitrags ist dies nicht nur eine Hürde, sondern vor allem auch eine Chance, die Statistik- und Methodenausbildung neu zu gestalten und zu modernisieren. Konkret wurde eine vormals 4-stündige, zweiwöchentliche Veranstaltung in ein auf Lerneinheiten basierendes Flipped Calssroom Modell umgewandelt. In Screencasts wurden statistische Hintergründe von Analyseverfahren und deren praktische Umsetzung und Dokumentation vermittelt. Zusätzlich wurden online Übungsaufgaben zur Verfügung gestellt, die je Lerneinheit zunächst Faktenwissen abfragten (z.B. Voraussetzungen für statistische Verfahren), bevor anschließend die praktische Anwendung anhand beispielhafter Forschungsfragen geübt wurde. Zusätzlich wurden Präsenztermine zur Bearbeitung der Aufgaben sowie für Fragen zur Verfügung gestellt. Didaktische Forschung zeigt, dass Lehrvideos in Kombination mit sinnvollen Aufgaben sowie weiteren Interaktionsmöglichkeiten (z.B. weiterführende Links, Möglichkeiten zur Temporegulierung) positive Effekte auf die die Motivation und den Lernerfolg der Student*innen haben können (Findeisen et al., 2019). Gelingt dies, kann selbstgesteuertes Lernen gefördert werden (Fallmann & Reinthaler, 2016). Herausforderungen und Potenziale dieses und ähnlicher Kursformate sollen auf der Tagung vorgestellt und diskutiert werden. 
 
 Anekdotisch kann festgestellt werden, dass die hier beschriebenen Änderungen in der Herangehensweise an die Statistik- und Methodenausbildung zwei zentrale Folgen hatten: Eine deutliche Verbesserung der Lehrevaluation am Ende des Semesters sowie, gemessen an den erreichten Abschlussnoten, eine deutliche Verbesserung des Lernerfolgs. Selbstredend sind beide Indikatoren mit Vorsicht zu genießen, dennoch machen sie Hoffnung, dass eine moderne, innovative Statistik- und Methodenausbildung auch eher zahlenscheue Student*innen erreichen kann. Nichtsdestotrotz, handelt es sich hierbei nur um einen ersten Schritt. Der Beitrag soll als Einladung zu einem breiteren Austausch verstanden werden, in dem Lehrende aus der Fachgruppe Tools, Formate und didaktische Methoden teilen können, um so die Statistikausbildung nicht nur punktuell, sondern nachhaltig und institutionsübergreifend zu verbessern. 
+
 Literatur
+
 Fallmann, I., & Reinthaler, P. (2016). Bedeutung und Förderung von selbstreguliertem Lernen im Inverted Classroom. In J. Haag & C. Freisleben-Teutscher (Hrsg.), Das Inverted Classroom Modell. Begleitband zur 5. Konferenz Inverted Classroom and Beyond 2016 (S. 45–54). St. Pölten: ikon VerlagsGesmbH.
+
 Findeisen, S., Horn, S. & Jürgen, S. (2019). Lernen durch Videos – Empirische Befunde zur Gestaltung von Erklärvideos. MedienPädagogik, (Oktober), 16–36. https://doi.org/10.21240/mpaed/00/2019.10.01.X. 
-JASP Team (2020). JASP (Version 0.14.1) \[Computer software]. Abgerufen auf https://jasp-stats.org/ am 30.03.2021 
+
+JASP Team (2020). JASP  \[Computer software]. Abgerufen auf https://jasp-stats.org/ am 30.03.2021 
+
 Lück, J., & Boczek, K. (2020). Statistik in der akademischen Journalist*innen-Ausbildung. In J. Schützeneder, K. Meier, & N. Springer (Hrsg.), Neujustierung der Journalistik/Journalismusforschung in der digitalen Gesellschaft: Proceedings zur Jahrestagung der Fachgruppe Journalistik/Journalismusforschung der Deutschen Gesellschaft für Publizistikund Kommunikationswissenschaft 2019, Eichstätt (S. 105–116). Eichstätt: Deutsche Gesellschaft für Publizistik- und Kommunikationswissenschaft e.V. https://doi.org/10.21241/ssoar.70827 
+
 Magnusson, K. (2020). Interpreting Correlations. An Interactive Visualization. Abgerufen auf https://rpsychologist.com/correlation/ am 30.03.2021
 Nguyen, A. & Lugo-Ocando, J. (2016). The state of data and statistics in journalism and journalism education: Issues and debates. Journalism, 17(1), 3–17. https://doi.org/10.1177/1464884915593234.
-The jamovi project (2021). jamovi (Version 1.6) \[Computer Software]. Abgerufen auf https://www.jamovi.org am 30.03.2021
-Wasserstein, R. L., Schirm, A. L., & Lazar, N. A. (2019). Moving to a World Beyond “p < 0.05.” The American Statistician, 73(sup1), 1–19. https://doi.org/10.1080/00031305.2019.1583913.
+
+The jamovi project (2021). jamovi \[Computer Software]. Abgerufen auf https://www.jamovi.org am 30.03.2021
