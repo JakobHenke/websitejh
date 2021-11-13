@@ -67,4 +67,3 @@ Jakob Henke is a PhD Student at the Department of Journalism at TU Dortmund Univ
 He teaches classes on statistics and data analysis as well as communication research methods, such as content analysis, surveys, and experiments.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
