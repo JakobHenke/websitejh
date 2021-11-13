@@ -1,14 +1,22 @@
 ---
 title: Potential for Innovation in Statistics Education for Journalists
-
+abstract: Innovationspotential in der Statistikausbildung für Journalist*innen
+location: Munich
+date: 2021-09-16T11:00:04.296Z
+date_end: 2021-09-16T13:00:19.404Z
+all_day: false
 event: Annual Conference of the Journalism Studies Division of the DGPuK
 event_url: https://www.dgpuk-fgjofo21.de/
-
-location: Munich
-
-
-abstract: Innovationspotential in der Statistikausbildung für Journalist*innen
-
+publishDate: 2021-11-13T14:07:00.000Z
+authors:
+  - Henke
+  - Jakob;Holtrup
+  - Stefanie;Möhring
+  - Wiebke
+tags:
+  - journalsm
+  - education
+  - stats
 ---
 Wahlberichterstattung, Berichte über offizielle Statistiken, Wissenschaftsjournalismus zu neuen Studien oder der aktuellen pandemischen Lage: Dies sind nur einige, wenige Beispiele in denen Jouranalist*innen mit Zahlen und Statistiken konfrontiert werden. Um ihrer Sorgfaltspflicht gerecht zu werden, ist es unabdingbar, dass Journalist*innen einen sicheren Umgang mit Zahlen und Statistiken beherrschen. Wider die Vorurteile, der Journalismus sei ein rein textgetriebener Beruf, wird in diesem Zug auf internationaler (Nguyen & Lugo-Ocando, 2016) wie nationaler Ebene über die Statistikausbildung von Journalist*innen diskutiert, zuletzt auch auf der Fachgruppentagung 2019 in Eichstätt-Ingolstadt (Lück & Boczek, 2020).
 
@@ -24,23 +32,9 @@ Anekdotisch kann festgestellt werden, dass die hier beschriebenen Änderungen in
 Literatur
 Fallmann, I., & Reinthaler, P. (2016). Bedeutung und Förderung von selbstreguliertem Lernen im Inverted Classroom. In J. Haag & C. Freisleben-Teutscher (Hrsg.), Das Inverted Classroom Modell. Begleitband zur 5. Konferenz Inverted Classroom and Beyond 2016 (S. 45–54). St. Pölten: ikon VerlagsGesmbH.
 Findeisen, S., Horn, S. & Jürgen, S. (2019). Lernen durch Videos – Empirische Befunde zur Gestaltung von Erklärvideos. MedienPädagogik, (Oktober), 16–36. https://doi.org/10.21240/mpaed/00/2019.10.01.X. 
-JASP Team (2020). JASP (Version 0.14.1) [Computer software]. Abgerufen auf https://jasp-stats.org/ am 30.03.2021 
+JASP Team (2020). JASP (Version 0.14.1) \[Computer software]. Abgerufen auf https://jasp-stats.org/ am 30.03.2021 
 Lück, J., & Boczek, K. (2020). Statistik in der akademischen Journalist*innen-Ausbildung. In J. Schützeneder, K. Meier, & N. Springer (Hrsg.), Neujustierung der Journalistik/Journalismusforschung in der digitalen Gesellschaft: Proceedings zur Jahrestagung der Fachgruppe Journalistik/Journalismusforschung der Deutschen Gesellschaft für Publizistikund Kommunikationswissenschaft 2019, Eichstätt (S. 105–116). Eichstätt: Deutsche Gesellschaft für Publizistik- und Kommunikationswissenschaft e.V. https://doi.org/10.21241/ssoar.70827 
 Magnusson, K. (2020). Interpreting Correlations. An Interactive Visualization. Abgerufen auf https://rpsychologist.com/correlation/ am 30.03.2021
 Nguyen, A. & Lugo-Ocando, J. (2016). The state of data and statistics in journalism and journalism education: Issues and debates. Journalism, 17(1), 3–17. https://doi.org/10.1177/1464884915593234.
-The jamovi project (2021). jamovi (Version 1.6) [Computer Software]. Abgerufen auf https://www.jamovi.org am 30.03.2021
+The jamovi project (2021). jamovi (Version 1.6) \[Computer Software]. Abgerufen auf https://www.jamovi.org am 30.03.2021
 Wasserstein, R. L., Schirm, A. L., & Lazar, N. A. (2019). Moving to a World Beyond “p < 0.05.” The American Statistician, 73(sup1), 1–19. https://doi.org/10.1080/00031305.2019.1583913.
-
----
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-16"
-
-
-
-authors: [Jakob Henke, Stefanie Holtrup, Wiebke Möhring]
-tags: [journalism education]
-
-# Is this a featured talk? (true/false)
-featured: false
