@@ -18,15 +18,6 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
-
-email: jakob.henke@tu-dortmund.de
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/HenkeJakob'
-
 # Site header
 
 main_menu:
